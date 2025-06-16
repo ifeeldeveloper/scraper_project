@@ -1,15 +1,8 @@
-# python -m pip install requests
-# => get data from web (html, json, xml)
-# python -m pip install beautifulsoup4
-# parse html
-
 import requests
 
 from bs4 import BeautifulSoup
 
 import json
-
-# import pprint
 
 url = "http://books.toscrape.com/"
 
@@ -47,7 +40,10 @@ with open("data.json", 'w', encoding= 'utf-8') as f:
   
 print("Book data saved to data.json")
 
-# pprint.pprint(books)
+# python -m pip install requests
+# => get data from web (html, json, xml)
+# python -m pip install beautifulsoup4
+# parse html
 
 # go to git bash
 # git config --global user.name "Jagadish Bhatta"
