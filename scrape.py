@@ -59,3 +59,10 @@ print("Book data saved to data.json")
 # git add. 
 # git commit -m "Your message"
 # copy paste git code from github
+
+##########################
+# 1. update the code
+# 2. git add .
+# 3. git commit -m "message"
+# 4. git push
+###########################
