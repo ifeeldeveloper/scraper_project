@@ -48,3 +48,14 @@ with open("data.json", 'w', encoding= 'utf-8') as f:
 print("Book data saved to data.json")
 
 # pprint.pprint(books)
+
+# go to git bash
+# git config --global user.name "Jagadish Bhatta"
+# git config --global user.email "jajajjajjaja@gmail.com"
+
+# git init => initialize git
+# git status => if you want to chech what are the status of files
+# git diff => if you want to check what are the changes
+# git add. 
+# git commit -m "Your message"
+# copy paste git code from github
